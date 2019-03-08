@@ -1,5 +1,10 @@
 def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
+  animals_with_names = {
+    "pluto" => "dog",
+    "dumbo" => "elephant",
+    "uncle baku" => "malaysian tapir",
+    "san pedro" => "hungry cat"
+  }
 
   
 end
